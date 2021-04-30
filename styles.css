@@ -1,0 +1,158 @@
+body{
+  background-color: #ddf3f5;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  /* padding-left: 2rem;
+  padding-right: 2rem; */
+}
+
+#topContainer{
+  background-image: url(bcg.jpg);
+  padding-top: 0;
+  margin-top: 0;
+}
+#topContainer .container-fluid{
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h2{
+  color: #e36387;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: 600;
+}
+h3{
+  color: #f2aaaa;
+  font-family: 'Hind Siliguri', sans-serif;
+  font-weight: 500;
+}
+.container-fluid{
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.navigationbar{
+  background-color: #e36387;
+  color: black;
+}
+
+.mainHeader{
+  margin-top: 0;
+  margin-bottom: 2rem;
+  padding-top: 0;
+  font-size: 6rem;
+  color: #4a3f35;
+  font-family: 'Rowdies', cursive;
+  text-decoration: underline overline;
+  text-shadow: 10px;
+}
+.letter:hover{
+  color: #f2aaaa;
+}
+.introH{
+  color:#4a3f35;
+}
+.ftext{
+  text-align: left;
+  font-weight: bold;
+}
+.galleryCarousel{
+  height: 30rem;
+  width: 50rem;
+}
+#gallery .container-fluid{
+  margin-bottom: 5rem;
+}
+#bookings .row{
+  margin: 2rem;
+}
+.card-header{
+  background-color: powderblue;
+  color: #e36387;
+}
+.card-body{
+  background-color: #f2aaaa;
+  color: #120136 ;
+  font-size: 1.2rem;
+
+}
+.pricingN{
+  font-family: 'Rowdies', cursive;
+}
+.imgs{
+  height: 30rem;
+  width:50rem;
+}
+#contact .container-fluid{
+  font-size: 1rem;
+  font-weight: bolder;
+  margin-top: 3rem;
+}
+#contact .formfill{
+  text-align: right;
+  padding-top: 5rem;
+  padding-left: 20rem;
+}
+.formText{
+  background-color: #f2aaaa;
+}
+.formText:hover{
+  background-color: pink;
+}
+.pineapple{
+  width: 70rem;
+  height:60rem;
+  border-radius: 100%;
+  /* border-color: gold;
+  border-width: 100px; */
+}
+.btn{
+  margin-top: 1rem;
+  background-color: #e36387;
+  color: white;
+  font-weight: bolder;
+}
+.btn:hover{
+  background-color: #be5683;
+  color: powderblue;
+}
+.testimonialImages{
+  padding-left: 0;
+  height: 25rem;
+  width:25rem;
+  transform: rotate(25deg);
+
+}
+.paragraphTestimonials{
+  padding-top: 2.2rem;
+}
+.testimonial{
+  padding-left: 1rem;
+  text-align: left;
+  font-size: 1.3rem;
+}
+.rows{
+  background-color: #f2aaaa;
+  color: white;
+}
+.altImg{
+  padding-left: 2rem;
+  padding-right: 0;
+  transform: rotate(-25deg);
+}
+.testimonialAlt{
+  text-align: right;
+}
+#footer .container-fluid{
+  background-color:  #e36387;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  color: white;
+}
+.footerImg{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.footerImg:hover{
+  color: powderblue;
+
+}
